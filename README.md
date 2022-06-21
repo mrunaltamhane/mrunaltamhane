@@ -1,7 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently 2nd Year Computer Engineering Student
 - 🤩I’m interested in Web Development and AI/ML
-- 📫 How to reach me: mrunal.tamhane7@gmail.com
 <br>
 
  ## Languages 
