@@ -33,3 +33,9 @@
 <a href="https://www.instagram.com/mrunaltamhane/"><img align="left" alt="InstaGram" width="35px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"  style="padding-right:10px;" /></a>
 <a href="https://github.com/mrunaltamhane"><img align="left" alt="Github" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  style="padding-right:10px;" /></a>
 
+<br>
+<br>
+
+##  Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrunaltamhane&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
