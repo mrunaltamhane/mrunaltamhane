@@ -1,6 +1,6 @@
 ## Hi Mrunal here 👋
-- 🔭 I’m currently 2nd Year Computer Engineering Student
-- 🤩I’m interested in Web Development and AI/ML
+- 🔭 I’m currently 3rd Year Computer Engineering Student
+- 🤩I’m interested in Web Development and CyberSecurity,AI/ML
 
 <br>
 
