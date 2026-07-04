@@ -1,6 +1,5 @@
 ## Hi Mrunal here 👋
-- 🔭 I’m currently Final Year Computer Engineering Student
-- 🤩I’m interested in Web Development and CyberSecurity, AI/ML
+
 
 <br>
 
@@ -28,10 +27,10 @@
 <br>
 
 ## Let's Connect
-<a href="https://www.linkedin.com/in/mrunal-tamhane-04a165216/"><img align="left" alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  style="padding-right:10px;" /></a>
+
 <a href="mailto:mrunal.tamhane7@gmail.com"><img align="left" alt="Mail" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"  style="padding-right:10px;" /></a>
-<a href="https://www.instagram.com/mrunaltamhane/"><img align="left" alt="InstaGram" width="35px" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"  style="padding-right:10px;" /></a>
-<a href="https://github.com/mrunaltamhane"><img align="left" alt="Github" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  style="padding-right:10px;" /></a>
+
+
 
 <br>
 <br>
